@@ -1,2 +1,0 @@
-[0321/144918.264:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
-[0321/144918.264:ERROR:crash_report_database_win.cc(606)] CreateDirectory C:\Users\MARUF~1.RAH\AppData\Local\Temp\scoped_dir16104_562452251\Crashpad: There is not enough space on the disk. (0x70)
