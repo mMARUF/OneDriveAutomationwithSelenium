@@ -13,5 +13,5 @@ This is a project on Automating OneDrive Automation with Selenium and JAVA!
 Here you will find .au3 file(zerofileupload.au3). This file contains script that will input a 0 Byte file path into Windows Explorer File Upload popup and complete the file upload proces. And, by compiling the .au3 file, we got the .exe fie(zerofileupload.exe) which will execute the script inside the .au3 file. We will execute this .exe file in Selenium to complete the file upload process fo ra 0 Byte File. 
 
  
-Here you will find .au3 file(zerofileupload.au3). This file contains script that will input the file path into Windows Explorer File Upload popup and complete the file upload proces. And, by compiling the .au3 file, we got the .exe fie(zerofileupload.exe) which will execute the script inside the .au3 file. We will execute this .au3 file in Selenium to complete the file upload process. 
+You will aslo find .au3 file(FileUploadScript.au3). This file contains script that will input the file path into Windows Explorer File Upload popup and complete the file upload proces. And, by compiling the .au3 file, we got the .exe fie(FileUploadScript.exe) which will execute the script inside the .au3 file. We will execute this .exe file in Selenium to complete the file upload process. 
  
